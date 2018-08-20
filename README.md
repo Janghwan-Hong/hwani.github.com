@@ -1,2 +1,2 @@
-# janghwan.github.com
-Janghwan`s github pages
+# hwani.github.com
+hwani`s github pages
